@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Picture in Picture",
-  "description": "Does some simple stuff",
-  "version": "0.1",
+  "description": "Picture-in-Picture extension for the Chrome browser.",
+  "version": "0.2",
   "author": "Juwan Petty",
   "browser_action": {
     "default_icon": {
